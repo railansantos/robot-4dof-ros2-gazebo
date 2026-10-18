@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# ROS/Gazebo
+build/
+install/
+log/
+
+# Editor
+.vscode/
+.idea/
